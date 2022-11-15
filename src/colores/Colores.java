@@ -12,6 +12,8 @@ public class Colores {
 		String cyan="\033[36m";
 		String amarillo ="\033[33m";
 		//Salida de colores
+		System.out.println("Colores java: ");
+		//Print
 		System.out.println(C+rojo+"Rojo");
 		System.out.println(C+azul+"Azul");
 		System.out.println(C+verde+"Verde");
