@@ -1,6 +1,6 @@
 package colores;
 public class Colores {
-
+	// Java con Colores
 	public static void main(String[] args) {
 		//Codigo de colores
 		String Colores="\033[37m Colores: ";
